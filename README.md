@@ -1,7 +1,7 @@
-Kanban React.js App
+usertt12 React.js App
 =====================
 
-Kanban-style project management tool built throughout the Pro React book
+usertt12-style project management tool built throughout the Pro React book
 
 ![Snapshot](https://cloud.githubusercontent.com/assets/33676/10969936/76e8f39e-83b2-11e5-8a36-0c5632850711.png)
 
